@@ -13,7 +13,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<modules>
-		<module>base-serv</module>
+		<module>base-service</module>
 		<module>account-sevice</module>
 		<module>product-service</module>
 		<module>order-service</module>
